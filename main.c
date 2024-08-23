@@ -3,4 +3,5 @@ main() {
 	factorial();
 	reverse();
 	pall();
+	sum2();
 }
